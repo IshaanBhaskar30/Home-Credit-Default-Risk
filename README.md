@@ -124,3 +124,6 @@ Evaluation metrics used:
 
 ## Tags
 `Machine Learning` • `XGBoost` • `Credit Risk Modeling` • `Financial Data Science` • `Python` • `Feature Engineering` • `Imbalanced Classification` • `Hyperparameter Tuning`
+
+
+Note:- Dataset is big kindly download it directly from kaggle via this link https://www.kaggle.com/c/home-credit-default-risk/
