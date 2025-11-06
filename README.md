@@ -1,5 +1,9 @@
 # Home Credit Default Risk Prediction
 
+Many individuals face challenges in accessing loans due to limited or non-existent credit histories. Home Credit aims to promote financial inclusion by providing fair and responsible lending opportunities to the unbanked population. To achieve this, the company utilizes a wide range of alternative data sources—including telco usage patterns, transactional behavior, and demographic information—to assess clients’ repayment capabilities.
+
+This project focuses on developing an end-to-end machine learning solution that predicts the likelihood of a client defaulting on a loan. By leveraging advanced models and optimization techniques, the goal is to help ensure that creditworthy clients are not rejected while minimizing the risk of default. This contributes to a fairer, data-driven approach to lending and supports Home Credit’s mission of empowering financial inclusion.
+
 ## Project Overview
 The goal of this project is to **predict the probability of a customer defaulting on a loan** using real-world financial data from Home Credit Group.  
 The objective is to help lenders make **responsible and data-driven credit decisions**, ensuring financial inclusion while minimizing default risk.
